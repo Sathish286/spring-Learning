@@ -23,6 +23,8 @@ import com.sathish.springmvc.Model.Human;
 @Controller
 public class HomeController {
 	
+	//COMMENTED LINES WILL ALSO WORK BUT FOR LEARNING PURPOSE COMMENTED OUT BEACAUSE ALL THE METHODS ARE SAME WITH DIFFERENT IMPLEMENTATION
+	
 	@Autowired
 	HumanDAO humanDao;
 	
